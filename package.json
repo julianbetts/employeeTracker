@@ -1,0 +1,24 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianbetts/employeeTracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianbetts/employeeTracker/issues"
+  },
+  "homepage": "https://github.com/julianbetts/employeeTracker#readme",
+  "dependencies": {
+    "inquirer": "^7.1.4",
+    "mysql2": "^2.3.3"
+  }
+}
